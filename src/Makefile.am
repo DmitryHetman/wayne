@@ -4,4 +4,4 @@ LDFLAGS =
 
 bin_PROGRAMS = wayne
 
-wayne_SOURCES = wayne.c
+wayne_SOURCES = wayne.cpp
