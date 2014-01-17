@@ -5,6 +5,10 @@
  */
 
 
+#include "wayne-launch.hpp"
+
+
 int main (int argc, char* argv[]) {
+	WayneLaunch *launch;
 	return 0;
 }
