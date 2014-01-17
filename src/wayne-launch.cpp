@@ -5,12 +5,4 @@
  * 
  */
 
-
-
-
-class WayneLaunch {
-public:
-	
-private:
-	
-}
+#include "wayne-launch.hpp"
